@@ -15,13 +15,15 @@ def get_domain_robust(name: str) -> str:
         'reuters.com', 'marketwatch.com',
         'yahoo.com', 'finance.yahoo.com'
     }
-    
+    if("." in name):
+        
     try:
         # Try multiple search queries
+        #try again 
         queries = [
-            f"{name} official website",
-            f"{name} company homepage",
-            f"{name} investor relations"
+            f"{name} investor relations",
+            f"{name} news release",
+            f"{name} company press release"
         ]
         
         for query in queries:
@@ -49,6 +51,12 @@ def get_domain_robust(name: str) -> str:
     return ""
 
 # Load and process
-df = pd.read_csv("../sp500-companies.csv", encoding='iso-8859-1')
-df["domain"] = df["Name"].apply(get_domain_robust)
-df.to_csv("sp500_companies_with_domains.csv", index=False)
+data = {"investor_page": get_domain_robust(name) for name in pd.read_csv("../sp500-companies.csv")["Name"]}
+df = pd.DataFrame.from_dict(data, orient='index', columns=['investor_page']) 
+
+
+df = pd.read_csv("./sp500_companies_with_investors_domain.csv", encoding='iso-8859-1')
+# df["domain"] = df["Name"].apply(get_domain_robust)
+df["investor_page"] = df["domain"].apply(get_domain_robust) if df["domain"].apply(get_domain_robust) else df["Name"].apply(get_domain_robust)
+
+df.to_csv("sp500_companies_with_investors_domain.csv", index=False)

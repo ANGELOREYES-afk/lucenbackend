@@ -1,7 +1,7 @@
 Ticker,Name,Industry,Sub-Industry,Headquarters Location,Date added,Founded,domain
-MMM,3M,Industrials,Industrial Conglomerates,"Saint Paul, Minnesota",3/4/1957,1902,siteencyclopedia.com
-AOS,A. O. Smith,Industrials,Building Products,"Milwaukee, Wisconsin",7/26/2017,1916,uscustomerservicephonenumber.com
-ABT,Abbott,Health Care,Health Care Equipment,"North Chicago, Illinois",3/4/1957,1888,ip-tracker.org
+MMM,3M,Industrials,Industrial Conglomerates,"Saint Paul, Minnesota",3/4/1957,1902,3m.com
+AOS,A. O. Smith,Industrials,Building Products,"Milwaukee, Wisconsin",7/26/2017,1916,aosmith.com
+ABT,Abbott,Health Care,Health Care Equipment,"North Chicago, Illinois",3/4/1957,1888,abbott.com
 ABBV,AbbVie,Health Care,Pharmaceuticals,"North Chicago, Illinois",12/31/2012,2013 (1888),abbvie.com
 ACN,Accenture,Information Technology,IT Consulting & Other Services,"Dublin, Ireland",7/6/2011,1989,accenture.com
 ATVI,Activision Blizzard,Communication Services,Interactive Home Entertainment,"Santa Monica, California",8/31/2015,2008,blizzard.com
@@ -14,7 +14,7 @@ AFL,Aflac,Financials,Life & Health Insurance,"Columbus, Georgia",5/28/1999,1955,
 A,Agilent Technologies,Health Care,Health Care Equipment,"Santa Clara, California",6/5/2000,1999,agilent.com
 APD,Air Products and Chemicals,Materials,Industrial Gases,"Allentown, Pennsylvania",4/30/1985,1940,airproducts.com
 AKAM,Akamai,Information Technology,Internet Services & Infrastructure,"Cambridge, Massachusetts",7/12/2007,1998,akamai.com
-ALK,Alaska Air Group,Industrials,Airlines,"SeaTac, Washington",5/13/2016,1985,corporateofficedata.com
+ALK,Alaska Air Group,Industrials,Airlines,"SeaTac, Washington",5/13/2016,1985,news.alaskaair.com
 ALB,Albemarle Corporation,Materials,Specialty Chemicals,"Charlotte, North Carolina",7/1/2016,1994,albemarle.com
 ARE,Alexandria Real Estate Equities,Real Estate,Office REITs,"Pasadena, California",3/20/2017,1994,alexandriava.gov
 ALGN,Align Technology,Health Care,Health Care Supplies,"Tempe, Arizona",6/19/2017,1997,alignprobiotics.com
@@ -27,75 +27,75 @@ MO,Altria,Consumer Staples,Tobacco,"Richmond, Virginia",3/4/1957,1985,altria.com
 AMZN,Amazon,Consumer Discretionary,Internet & Direct Marketing Retail,"Seattle, Washington",11/18/2005,1994,amazon.com
 AMCR,Amcor,Materials,Paper Packaging,"Warmley, Bristol, United Kingdom",6/7/2019,2019 (1860),amcorinc.com
 AMD,AMD,Information Technology,Semiconductors,"Santa Clara, California",3/20/2017,1969,amd.com
-AEE,Ameren,Utilities,Multi-Utilities,"St. Louis, Missouri",9/19/1991,1902,siteindices.com
+AEE,Ameren,Utilities,Multi-Utilities,"St. Louis, Missouri",9/19/1991,1902,ameren.com
 AAL,American Airlines Group,Industrials,Airlines,"Fort Worth, Texas",3/23/2015,1934,aa.com
-AEP,American Electric Power,Utilities,Electric Utilities,"Columbus, Ohio",3/4/1957,1906,udpwr.com
-AXP,American Express,Financials,Consumer Finance,"New York City, New York",6/30/1976,1850,wikimili.com
-AIG,American International Group,Financials,Property & Casualty Insurance,"New York City, New York",3/31/1980,1919,gcs-web.com
-AMT,American Tower,Real Estate,Specialized REITs,"Boston, Massachusetts",11/19/2007,1995,mediacoverage.com
-AWK,American Water Works,Utilities,Water Utilities,"Camden, New Jersey",3/4/2016,1886,sourcewatch.org
+AEP,American Electric Power,Utilities,Electric Utilities,"Columbus, Ohio",3/4/1957,1906,aep.com
+AXP,American Express,Financials,Consumer Finance,"New York City, New York",6/30/1976,1850,americanexpress.com
+AIG,American International Group,Financials,Property & Casualty Insurance,"New York City, New York",3/31/1980,1919,aig.com
+AMT,American Tower,Real Estate,Specialized REITs,"Boston, Massachusetts",11/19/2007,1995,americantower.com
+AWK,American Water Works,Utilities,Water Utilities,"Camden, New Jersey",3/4/2016,1886,awwa.org
 AMP,Ameriprise Financial,Financials,Asset Management & Custody Banks,"Minneapolis, Minnesota",10/3/2005,1894,ameriprise.com
 ABC,AmerisourceBergen,Health Care,Health Care Distributors,"Conshohocken, Pennsylvania",8/30/2001,1985,amerisourcebergen.com
 AME,Ametek,Industrials,Electrical Components & Equipment,"Berwyn, Pennsylvania",9/23/2013,1930,ametek.com
 AMGN,Amgen,Health Care,Biotechnology,"Thousand Oaks, California",1/2/1992,1980,amgen.com
-APH,Amphenol,Information Technology,Electronic Components,"Wallingford, Connecticut",9/30/2008,1932,procureinc.com
+APH,Amphenol,Information Technology,Electronic Components,"Wallingford, Connecticut",9/30/2008,1932,amphenol.com/
 ADI,Analog Devices,Information Technology,Semiconductors,"Wilmington, Massachusetts",10/12/1999,1965,analog.com
 ANSS,Ansys,Information Technology,Application Software,"Canonsburg, Pennsylvania",6/19/2017,1969,ansys.com
-AON,Aon,Financials,Insurance Brokers,"London, UK",4/23/1996,1982 (1919),lisisoft.com
+AON,Aon,Financials,Insurance Brokers,"London, UK",4/23/1996,1982 (1919),aon.com
 APA,APA Corporation,Energy,Oil & Gas Exploration & Production,"Houston, Texas",7/28/1997,1954,apacorp.com
 AAPL,Apple Inc.,Information Technology,"Technology Hardware, Storage & Peripherals","Cupertino, California",11/30/1982,1977,apple.com
-AMAT,Applied Materials,Information Technology,Semiconductor Equipment,"Santa Clara, California",3/16/1995,1967,patsnap.com
+AMAT,Applied Materials,Information Technology,Semiconductor Equipment,"Santa Clara, California",3/16/1995,1967,appliedmaterials.com
 APTV,Aptiv,Consumer Discretionary,Auto Parts & Equipment,"Dublin, Ireland",12/24/2012,1994,aptiv.com
 ACGL,Arch Capital Group,Financials,Reinsurance,"Hamilton, Bermuda",11/1/2022,1995,archgroup.com
 ANET,Arista Networks,Information Technology,Communications Equipment,"Santa Clara, California",8/28/2018,2004,arista.com
-AJG,Arthur J. Gallagher & Co.,Financials,Insurance Brokers,"Rolling Meadows, Illinois",5/31/2016,1927,pbskids.org
+AJG,Arthur J. Gallagher & Co.,Financials,Insurance Brokers,"Rolling Meadows, Illinois",5/31/2016,1927,ajg.com
 AIZ,Assurant,Financials,Multi-line Insurance,"New York City, New York",4/10/2007,1892,assurant.com
 T,AT&T,Communication Services,Integrated Telecommunication Services,"Dallas, Texas",11/30/1983,1983 (1885),att.com
-ATO,Atmos Energy,Utilities,Gas Utilities,"Dallas, Texas",2/15/2019,1906,avsforum.com
+ATO,Atmos Energy,Utilities,Gas Utilities,"Dallas, Texas",2/15/2019,1906,atmosenergy.com
 ADSK,Autodesk,Information Technology,Application Software,"San Francisco, California",12/1/1989,1982,autodesk.com
 AZO,AutoZone,Consumer Discretionary,Specialty Stores,"Memphis, Tennessee",1/2/1997,1979,autozone.com
 AVB,AvalonBay Communities,Real Estate,Residential REITs,"Arlington, Virginia",1/10/2007,1978,avaloncommunities.com
 AVY,Avery Dennison,Materials,Paper Packaging,"Glendale, California",12/31/1987,1990,averydennison.com
-BKR,Baker Hughes,Energy,Oil & Gas Equipment & Services,"Houston, Texas",7/7/2017,2017,set-solutions.net
+BKR,Baker Hughes,Energy,Oil & Gas Equipment & Services,"Houston, Texas",7/7/2017,2017,bakerhughes.com
 BALL,Ball Corporation,Materials,Metal & Glass Containers,"Broomfield, Colorado",10/31/1984,1880,ball.com
 BAC,Bank of America,Financials,Diversified Banks,"Charlotte, North Carolina",6/30/1976,1998 (1923 / 1874),bankofamerica.com
 BBWI,"Bath & Body Works, Inc.",Consumer Discretionary,Specialty Stores,"Columbus, Ohio",9/30/1983,1963,bathandbodyworks.com
 BAX,Baxter International,Health Care,Health Care Equipment,"Deerfield, Illinois",9/30/1972,1931,baxter.com
-BDX,Becton Dickinson,Health Care,Health Care Equipment,"Franklin Lakes, New Jersey",9/30/1972,1897,tipranks.com
-WRB,Berkley,Financials,Property & Casualty Insurance,"Greenwich, Connecticut",12/5/2019,1967,berkley-fishing.com
+BDX,Becton Dickinson,Health Care,Health Care Equipment,"Franklin Lakes, New Jersey",9/30/1972,1897,bd.com
+WRB,Berkley,Financials,Property & Casualty Insurance,"Greenwich, Connecticut",12/5/2019,1967,berkley.com
 BRK.B,Berkshire Hathaway,Financials,Multi-Sector Holdings,"Omaha, Nebraska",2/16/2010,1839,berkshirehathaway.com
 BBY,Best Buy,Consumer Discretionary,Computer & Electronics Retail,"Richfield, Minnesota",6/29/1999,1966,bestbuy.com
-BIO,Bio-Rad,Health Care,Life Sciences Tools & Services,"Hercules, California",6/22/2020,1952,zhihu.com
+BIO,Bio-Rad,Health Care,Life Sciences Tools & Services,"Hercules, California",6/22/2020,1952,bio-rad.com
 TECH,Bio-Techne,Health Care,Life Sciences Tools & Services,"Minneapolis, Minnesota",8/30/2021,1976,bio-techne.com
 BIIB,Biogen,Health Care,Biotechnology,"Cambridge, Massachusetts",11/13/2003,1978,biogen.com
 BLK,BlackRock,Financials,Asset Management & Custody Banks,"New York City, New York",4/4/2011,1988,blackrock.com
 BK,BNY Mellon,Financials,Asset Management & Custody Banks,"New York City, New York",3/31/1995,1784,bny.com
-BA,Boeing,Industrials,Aerospace & Defense,"Chicago, Illinois",3/4/1957,1916,boeingfutureofflight.com
+BA,Boeing,Industrials,Aerospace & Defense,"Chicago, Illinois",3/4/1957,1916,boeing.com
 BKNG,Booking Holdings,Consumer Discretionary,Internet & Direct Marketing Retail,"Norwalk, Connecticut",11/6/2009,1996,bookingholdings.com
-BWA,BorgWarner,Consumer Discretionary,Auto Parts & Equipment,"Auburn Hills, Michigan",12/19/2011,1880,epartrade.com
-BXP,Boston Properties,Real Estate,Office REITs,"Boston, Massachusetts",4/3/2006,1970,gethuman.com
+BWA,BorgWarner,Consumer Discretionary,Auto Parts & Equipment,"Auburn Hills, Michigan",12/19/2011,1880,borgwarner.com
+BXP,Boston Properties,Real Estate,Office REITs,"Boston, Massachusetts",4/3/2006,1970,bxp.com
 BSX,Boston Scientific,Health Care,Health Care Equipment,"Marlborough, Massachusetts",2/24/1995,1979,bostonscientific.com
 BMY,Bristol Myers Squibb,Health Care,Pharmaceuticals,"New York City, New York",3/4/1957,1989 (1887),bms.com
 AVGO,Broadcom Inc.,Information Technology,Semiconductors,"San Jose, California",5/8/2014,1961,broadcom.com
 BR,Broadridge Financial Solutions,Information Technology,Data Processing & Outsourced Services,"Lake Success, New York",6/18/2018,1962,broadridge.com
-BRO,Brown & Brown,Financials,Insurance Brokers,"Daytona Beach, Florida",9/20/2021,1939,danbrown.com
-BF.B,BrownForman,Consumer Staples,Distillers & Vintners,"Louisville, Kentucky",10/31/1982,1870,edgarindex.com
+BRO,Brown & Brown,Financials,Insurance Brokers,"Daytona Beach, Florida",9/20/2021,1939,bbrown.com
+BF.B,BrownForman,Consumer Staples,Distillers & Vintners,"Louisville, Kentucky",10/31/1982,1870,brown-forman.com
 BG,Bunge Limited,Consumer Staples,Agricultural Products,"Chesterfield, Missouri",3/15/2023,1818,bunge.com
-CHRW,C.H. Robinson,Industrials,Air Freight & Logistics,"Eden Prairie, Minnesota",3/2/2007,1905,ipaddress.com
-CDNS,Cadence Design Systems,Information Technology,Application Software,"San Jose, California",9/18/2017,1988,trendspider.com
+CHRW,C.H. Robinson,Industrials,Air Freight & Logistics,"Eden Prairie, Minnesota",3/2/2007,1905,g10fulfillment.com
+CDNS,Cadence Design Systems,Information Technology,Application Software,"San Jose, California",9/18/2017,1988,cadence.com
 CZR,Caesars Entertainment,Consumer Discretionary,Casinos & Gaming,"Reno, Nevada",3/22/2021,1973,caesars.com
 CPT,Camden Property Trust,Real Estate,Residential REITs,"Houston, Texas",4/4/2022,1981,camdenliving.com
-CPB,Campbell Soup Company,Consumer Staples,Packaged Foods & Meats,"Camden, New Jersey",3/4/1957,1869,campbells.com
+CPB,Campbell Soup Company,Consumer Staples,Packaged Foods & Meats,"Camden, New Jersey",3/4/1957,1869,thecampbellscompany.com
 COF,Capital One,Financials,Consumer Finance,"Tysons Corner, Virginia",7/1/1998,1994,capitalone.com
-CAH,Cardinal Health,Health Care,Health Care Distributors,"Dublin, Ohio",5/27/1997,1971,globalny.biz
+CAH,Cardinal Health,Health Care,Health Care Distributors,"Dublin, Ohio",5/27/1997,1971,cardinalhealth.com
 KMX,CarMax,Consumer Discretionary,Automotive Retail,"Richmond, Virginia",6/28/2010,1993,carmax.com
 CCL,Carnival,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Miami, Florida",12/22/1998,1972,carnival.com
-CARR,Carrier Global,Industrials,Building Products,"Palm Beach Gardens, Florida",4/3/2020,2020 (1915),carrier.com
+CARR,Carrier Global,Industrials,Building Products,"Palm Beach Gardens, Florida",4/3/2020,2020 (1915),corporate.carrier.com
 CTLT,Catalent,Health Care,Pharmaceuticals,"Somerset, New Jersey",9/21/2020,2007,catalent.com
 CAT,Caterpillar Inc.,Industrials,Construction Machinery & Heavy Trucks,"Irving, Texas",3/4/1957,1925,caterpillar.com
-CBOE,Cboe Global Markets,Financials,Financial Exchanges & Data,"Chicago, Illinois",3/1/2017,1973,tradersmagazine.com
+CBOE,Cboe Global Markets,Financials,Financial Exchanges & Data,"Chicago, Illinois",3/1/2017,1973,cboe.com
 CBRE,CBRE Group,Real Estate,Real Estate Services,"Dallas, Texas",11/10/2006,1906,cbre.com
-CDW,CDW,Information Technology,Technology Distributors,"Lincolnshire, Illinois",9/23/2019,1984,computerhope.com
+CDW,CDW,Information Technology,Technology Distributors,"Lincolnshire, Illinois",9/23/2019,1984,cdw.com
 CE,Celanese,Materials,Specialty Chemicals,"Irving, Texas",12/24/2018,1918,celanese.com
 CNC,Centene Corporation,Health Care,Managed Health Care,"St. Louis, Missouri",3/30/2016,1984,centene.com
 CNP,CenterPoint Energy,Utilities,Multi-Utilities,"Houston, Texas",7/31/1985,1882,centerpointenergy.com
@@ -103,8 +103,8 @@ CDAY,Ceridian,Information Technology,Application Software,"Minneapolis, Minnesot
 CF,CF Industries,Materials,Fertilizers & Agricultural Chemicals,"Deerfield, Illinois",8/27/2008,1946,cfindustries.com
 CRL,Charles River Laboratories,Health Care,Life Sciences Tools & Services,"Wilmington, Massachusetts",5/14/2021,1947,criver.com
 SCHW,Charles Schwab Corporation,Financials,Investment Banking & Brokerage,"Westlake, Texas",6/2/1997,1971,schwab.com
-CHTR,Charter Communications,Communication Services,Cable & Satellite,"Stamford, Connecticut",9/8/2016,1993,investorshangout.com
-CVX,Chevron Corporation,Energy,Integrated Oil & Gas,"San Ramon, California",3/4/1957,1879,reputection.com
+CHTR,Charter Communications,Communication Services,Cable & Satellite,"Stamford, Connecticut",9/8/2016,1993,corporate.charter.com
+CVX,Chevron Corporation,Energy,Integrated Oil & Gas,"San Ramon, California",3/4/1957,1879,chevron.com
 CMG,Chipotle Mexican Grill,Consumer Discretionary,Restaurants,"Newport Beach, California",4/28/2011,1993,chipotle.com
 CB,Chubb Limited,Financials,Property & Casualty Insurance,"Zurich, Switzerland",7/15/2010,1985,chubb.com
 CHD,Church & Dwight,Consumer Staples,Household Products,"Ewing, New Jersey",12/29/2015,1847,churchdwight.com
@@ -112,30 +112,30 @@ CI,Cigna,Health Care,Managed Health Care,"Bloomfield, Connecticut",6/30/1976,198
 CINF,Cincinnati Financial,Financials,Property & Casualty Insurance,"Fairfield, Ohio",12/18/1997,1950,cinfin.com
 CTAS,Cintas,Industrials,Diversified Support Services,"Mason, Ohio",3/1/2001,1929,cintas.com
 CSCO,Cisco,Information Technology,Communications Equipment,"San Jose, California",12/1/1993,1984,cisco.com
-C,Citigroup,Financials,Diversified Banks,"New York City, New York",5/31/1988,1998,ipaddress.com
+C,Citigroup,Financials,Diversified Banks,"New York City, New York",5/31/1988,1998,citigroup.com
 CFG,Citizens Financial Group,Financials,Regional Banks,"Providence, Rhode Island",1/29/2016,1828,citizensbank.com
 CLX,Clorox,Consumer Staples,Household Products,"Oakland, California",3/31/1969,1913,clorox.com
 CME,CME Group,Financials,Financial Exchanges & Data,"Chicago, Illinois",8/11/2006,1848,cmegroup.com
-CMS,CMS Energy,Utilities,Multi-Utilities,"Jackson, Michigan",3/4/1957,1886,zhihu.com
+CMS,CMS Energy,Utilities,Multi-Utilities,"Jackson, Michigan",3/4/1957,1886,cmsenergy.com
 KO,Coca-Cola Company (The),Consumer Staples,Soft Drinks,"Atlanta, Georgia",3/4/1957,1886,coca-colacompany.com
 CTSH,Cognizant,Information Technology,IT Consulting & Other Services,"Teaneck, New Jersey",11/17/2006,1994,cognizant.com
-CL,Colgate-Palmolive,Consumer Staples,Household Products,"New York City, New York",3/4/1957,1806,collegeconfidential.com
-CMCSA,Comcast,Communication Services,Cable & Satellite,"Philadelphia, Pennsylvania",11/19/2002,1963,allcustomercarenumbers.net
+CL,Colgate-Palmolive,Consumer Staples,Household Products,"New York City, New York",3/4/1957,1806,colgatepalmolive.com
+CMCSA,Comcast,Communication Services,Cable & Satellite,"Philadelphia, Pennsylvania",11/19/2002,1963,business.comcast.com
 CMA,Comerica,Financials,Diversified Banks,"Dallas, Texas",12/1/1995,1849,comerica.com
 CAG,Conagra Brands,Consumer Staples,Packaged Foods & Meats,"Chicago, Illinois",8/31/1983,1919,conagrabrands.com
 COP,ConocoPhillips,Energy,Oil & Gas Exploration & Production,"Houston, Texas",3/4/1957,2002,conocophillips.com
 ED,Consolidated Edison,Utilities,Electric Utilities,"New York City, New York",3/4/1957,1823,consolidated.com
-STZ,Constellation Brands,Consumer Staples,Distillers & Vintners,"Victor, New York",7/1/2005,1945,home.saxo
-CEG,Constellation Energy,Utilities,Multi-Utilities,"Baltimore, Maryland",2/2/2022,1999,nineplanets.org
+STZ,Constellation Brands,Consumer Staples,Distillers & Vintners,"Victor, New York",7/1/2005,1945,cbrands.com
+CEG,Constellation Energy,Utilities,Multi-Utilities,"Baltimore, Maryland",2/2/2022,1999,constellation.com
 COO,CooperCompanies,Health Care,Health Care Supplies,"San Ramon, California",9/23/2016,1958,coopercos.com
 CPRT,Copart,Industrials,Diversified Support Services,"Dallas, Texas",7/2/2018,1982,copart.com
 GLW,Corning Inc.,Information Technology,Electronic Components,"Corning, New York",2/27/1995,1851,corning.com
 CTVA,Corteva,Materials,Fertilizers & Agricultural Chemicals,"Indianapolis, Indiana",6/3/2019,2019,corteva.com
 CSGP,CoStar Group,Industrials,Research & Consulting Services,"Washington, D.C.",9/19/2022,1987,costar.com
-COST,Costco,Consumer Staples,Hypermarkets & Super Centers,"Issaquah, Washington",10/1/1993,1976,pinterest.com
+COST,Costco,Consumer Staples,Hypermarkets & Super Centers,"Issaquah, Washington",10/1/1993,1976,investor.costco.com
 CTRA,Coterra,Energy,Oil & Gas Exploration & Production,"Houston, Texas",6/23/2008,2021 (1989),coterra.com
-CCI,Crown Castle,Real Estate,Specialized REITs,"Houston, Texas",3/14/2012,1994,google.com
-CSX,CSX,Industrials,Railroads,"Jacksonville, Florida",3/4/1957,1980,google.com
+CCI,Crown Castle,Real Estate,Specialized REITs,"Houston, Texas",3/14/2012,1994,gcrowncastle.com
+CSX,CSX,Industrials,Railroads,"Jacksonville, Florida",3/4/1957,1980,csx.com
 CMI,Cummins,Industrials,Industrial Machinery,"Columbus, Indiana",3/31/1965,1919,cummins.com
 CVS,CVS Health,Health Care,Health Care Services,"Woonsocket, Rhode Island",3/4/1957,1996,cvshealth.com
 DHI,D.R. Horton,Consumer Discretionary,Homebuilding,"Arlington, Texas",6/22/2005,1978,drhorton.com
@@ -146,54 +146,54 @@ DE,John Deere,Industrials,Agricultural & Farm Machinery,"Moline, Illinois",3/4/1
 DAL,Delta Air Lines,Industrials,Airlines,"Atlanta, Georgia",9/11/2013,1929,delta.com
 XRAY,Dentsply Sirona,Health Care,Health Care Supplies,"Charlotte, North Carolina",11/14/2008,2016 (1969),dentsplysirona.com
 DVN,Devon Energy,Energy,Oil & Gas Exploration & Production,"Oklahoma City, Oklahoma",8/30/2000,1971,devonenergy.com
-DXCM,Dexcom,Health Care,Health Care Equipment,"San Diego, California",5/12/2020,1999,fda.gov
-FANG,Diamondback Energy,Energy,Oil & Gas Exploration & Production,"Midland, Texas",12/3/2018,2007,upstreamonline.com
+DXCM,Dexcom,Health Care,Health Care Equipment,"San Diego, California",5/12/2020,1999,dexcom.com
+FANG,Diamondback Energy,Energy,Oil & Gas Exploration & Production,"Midland, Texas",12/3/2018,2007,ir.diamondbackenergy.com
 DLR,Digital Realty,Real Estate,Specialized REITs,"Austin, Texas",5/18/2016,2004,digitalrealty.com
 DFS,Discover Financial,Financials,Consumer Finance,"Riverwoods, Illinois",7/2/2007,1985,discover.com
 DISH,Dish Network,Communication Services,Cable & Satellite,"Meridian, Colorado",3/13/2017,1980,dish.com
 DIS,Disney,Communication Services,Movies & Entertainment,"Burbank, California",6/30/1976,1923,disney.com
 DG,Dollar General,Consumer Discretionary,General Merchandise Stores,"Goodlettsville, Tennessee",12/3/2012,1939,dollargeneral.com
 DLTR,Dollar Tree,Consumer Discretionary,General Merchandise Stores,"Chesapeake, Virginia",12/19/2011,1986,dollartree.com
-D,Dominion Energy,Utilities,Electric Utilities,"Richmond, Virginia",,1983,boardgamegeek.com
+D,Dominion Energy,Utilities,Electric Utilities,"Richmond, Virginia",,1983,dominionenergy.com
 DPZ,Domino's,Consumer Discretionary,Restaurants,"Ann Arbor, Michigan",5/12/2020,1960,dominos.co.in
 DOV,Dover Corporation,Industrials,Industrial Machinery,"Downers Grove, Illinois",10/31/1985,1955,dovercorporation.com
 DOW,Dow Inc.,Materials,Commodity Chemicals,"Midland, Michigan",4/1/2019,2019,dow.com
-DTE,DTE Energy,Utilities,Multi-Utilities,"Detroit, Michigan",3/4/1957,1995,billpayadvisor.com
-DUK,Duke Energy,Utilities,Electric Utilities,"Charlotte, North Carolina",6/30/1976,1904,tramatm.com
-DD,DuPont,Materials,Specialty Chemicals,"Wilmington, Delaware",4/2/2019,2017,st-dupont.com
+DTE,DTE Energy,Utilities,Multi-Utilities,"Detroit, Michigan",3/4/1957,1995,dteenergy.com
+DUK,Duke Energy,Utilities,Electric Utilities,"Charlotte, North Carolina",6/30/1976,1904,duke-energy.com
+DD,DuPont,Materials,Specialty Chemicals,"Wilmington, Delaware",4/2/2019,2017,dupont.com
 DXC,DXC Technology,Information Technology,IT Consulting & Other Services,"Tysons Corner, Virginia",4/4/2017,2017,dxc.com
 EMN,Eastman Chemical Company,Materials,Diversified Chemicals,"Kingsport, Tennessee",1/1/1994,1920,eastman.com
 ETN,Eaton Corporation,Industrials,Electrical Components & Equipment,"Dublin, Ireland",3/4/1957,1911,eaton.com
 EBAY,eBay,Consumer Discretionary,Internet & Direct Marketing Retail,"San Jose, California",7/22/2002,1995,ebay.com
 ECL,Ecolab,Materials,Specialty Chemicals,"Saint Paul, Minnesota",1/31/1989,1923,ecolab.com
-EIX,Edison International,Utilities,Electric Utilities,"Rosemead, California",3/4/1957,1886,pcmaf.org
+EIX,Edison International,Utilities,Electric Utilities,"Rosemead, California",3/4/1957,1886,edison.com
 EW,Edwards Lifesciences,Health Care,Health Care Equipment,"Irvine, California",4/1/2011,1958,edwards.com
 EA,Electronic Arts,Communication Services,Interactive Home Entertainment,"Redwood City, California",7/22/2002,1982,ea.com
-ELV,Elevance Health,Health Care,Managed Health Care,"Indianapolis, Indiana",7/25/2002,2014 (1946),drugscoverage.com
+ELV,Elevance Health,Health Care,Managed Health Care,"Indianapolis, Indiana",7/25/2002,2014 (1946),elevancehealth.com
 LLY,Eli Lilly and Company,Health Care,Pharmaceuticals,"Indianapolis, Indiana",12/31/1970,1876,lilly.com
 EMR,Emerson Electric,Industrials,Electrical Components & Equipment,"Ferguson, Missouri",3/31/1965,1890,emerson.com
 ENPH,Enphase,Information Technology,Electronic Components,"Fremont, California",1/7/2021,2006,enphase.com
 ETR,Entergy,Utilities,Electric Utilities,"New Orleans, Louisiana",3/4/1957,1913,entergy.com
-EOG,EOG Resources,Energy,Oil & Gas Exploration & Production,"Houston, Texas",11/2/2000,1999,logodad.com
+EOG,EOG Resources,Energy,Oil & Gas Exploration & Production,"Houston, Texas",11/2/2000,1999,eogresources.com
 EPAM,EPAM Systems,Information Technology,IT Consulting & Other Services,"Newtown, Pennsylvania",12/14/2021,1993,epam.com
 EQT,EQT,Energy,Oil & Gas Exploration & Production,"Pittsburgh, Pennsylvania",10/3/2022,1888,eqt.com
-EFX,Equifax,Industrials,Research & Consulting Services,"Atlanta, Georgia",6/19/1997,1899,customerservicedb.com
+EFX,Equifax,Industrials,Research & Consulting Services,"Atlanta, Georgia",6/19/1997,1899,equifax.com
 EQIX,Equinix,Real Estate,Specialized REITs,"Redwood City, California",3/20/2015,1998,equinix.com
-EQR,Equity Residential,Real Estate,Residential REITs,"Chicago, Illinois",12/3/2001,1969,login-ed.com
+EQR,Equity Residential,Real Estate,Residential REITs,"Chicago, Illinois",12/3/2001,1969,equityapartments.com
 ESS,Essex Property Trust,Real Estate,Residential REITs,"San Mateo, California",4/2/2014,1971,essexapartmenthomes.com
-EL,Est?e Lauder Companies (The),Consumer Staples,Personal Products,"New York City, New York",1/5/2006,1946,timeanddate.com
+EL,Est?e Lauder Companies (The),Consumer Staples,Personal Products,"New York City, New York",1/5/2006,1946,elcompanies.com
 ETSY,Etsy,Consumer Discretionary,Internet & Direct Marketing Retail,"New York City, New York",9/21/2020,2005,etsy.com
-RE,Everest Re,Financials,Reinsurance,"Hamilton, Bermuda",6/19/2017,1973,swfinstitute.org
+RE,Everest Re,Financials,Reinsurance,"Hamilton, Bermuda",6/19/2017,1973,everestglobal.com
 EVRG,Evergy,Utilities,Electric Utilities,"Kansas City, Missouri",6/5/2018,1909,evergy.com
-ES,Eversource,Utilities,Multi-Utilities,"Hartford, Connecticut",2009,1966,ctinsider.com
+ES,Eversource,Utilities,Multi-Utilities,"Hartford, Connecticut",2009,1966,eversource.com
 EXC,Exelon,Utilities,Multi-Utilities,"Chicago, Illinois",3/4/1957,2000,exeloncorp.com
 EXPE,Expedia Group,Consumer Discretionary,Internet & Direct Marketing Retail,"Seattle, Washington",10/2/2007,1996,expediagroup.com
-EXPD,Expeditors International,Industrials,Air Freight & Logistics,"Seattle, Washington",10/10/2007,1979,52wmb.com
+EXPD,Expeditors International,Industrials,Air Freight & Logistics,"Seattle, Washington",10/10/2007,1979,expeditors.com
 EXR,Extra Space Storage,Real Estate,Specialized REITs,"Salt Lake City, Utah",1/19/2016,1977,extraspace.com
 XOM,ExxonMobil,Energy,Integrated Oil & Gas,"Irving, Texas",3/4/1957,1999,exxonmobil.com
 FFIV,"F5, Inc.",Information Technology,Communications Equipment,"Seattle, Washington",12/20/2010,1996,f5.com
-FDS,FactSet,Financials,Financial Exchanges & Data,"Norwalk, Connecticut",12/20/2021,1978,bing.com
-FAST,Fastenal,Industrials,Building Products,"Winona, Minnesota",9/15/2008,1967,pinside.com
+FDS,FactSet,Financials,Financial Exchanges & Data,"Norwalk, Connecticut",12/20/2021,1978,factset.com
+FAST,Fastenal,Industrials,Building Products,"Winona, Minnesota",9/15/2008,1967,investor.fastenal.com
 FRT,Federal Realty,Real Estate,Retail REITs,"Rockville, Maryland",2/1/2016,1962,federalrealty.com
 FDX,FedEx,Industrials,Air Freight & Logistics,"Memphis, Tennessee",12/31/1980,1971,fedex.com
 FITB,Fifth Third Bank,Financials,Regional Banks,"Cincinnati, Ohio",3/29/1996,1858,53.com
@@ -203,22 +203,22 @@ FE,FirstEnergy,Utilities,Electric Utilities,"Akron, Ohio",11/28/1997,1997,firste
 FIS,FIS,Information Technology,Data Processing & Outsourced Services,"Jacksonville, Florida",11/10/2006,1968,fisglobal.com
 FISV,Fiserv,Information Technology,Data Processing & Outsourced Services,"Brookfield, Wisconsin",4/2/2001,1984,fiserv.com
 FLT,Fleetcor,Information Technology,Data Processing & Outsourced Services,"Atlanta, Georgia",6/20/2018,2000,fleetcor.com
-FMC,FMC Corporation,Materials,Fertilizers & Agricultural Chemicals,"Philadelphia, Pennsylvania",8/19/2009,1883,tyrolbasin.com
+FMC,FMC Corporation,Materials,Fertilizers & Agricultural Chemicals,"Philadelphia, Pennsylvania",8/19/2009,1883,fmc.com
 F,Ford Motor Company,Consumer Discretionary,Automobile Manufacturers,"Dearborn, Michigan",3/4/1957,1903,ford.com
 FTNT,Fortinet,Information Technology,Systems Software,"Sunnyvale, California",10/11/2018,2000,fortinet.com
 FTV,Fortive,Industrials,Industrial Machinery,"Everett, Washington",7/1/2016,2016,fortive.com
 FOXA,Fox Corporation (Class A),Communication Services,Movies & Entertainment,"New York City, New York",7/1/2013,2019,foxcorporation.com
-FOX,Fox Corporation (Class B),Communication Services,Movies & Entertainment,"New York City, New York",9/18/2015,2019,tipranks.com
+FOX,Fox Corporation (Class B),Communication Services,Movies & Entertainment,"New York City, New York",9/18/2015,2019,investor.foxcorporation.com
 BEN,Franklin Templeton,Financials,Asset Management & Custody Banks,"San Mateo, California",4/30/1998,1947,franklintempleton.com.au
 FCX,Freeport-McMoRan,Materials,Copper,"Phoenix, Arizona",,1912,fcx.com
 GRMN,Garmin,Consumer Discretionary,Consumer Electronics,"Schaffhausen, Switzerland",12/12/2012,1989,garmin.com
 IT,Gartner,Information Technology,IT Consulting & Other Services,"Stamford, Connecticut",4/5/2017,1979,gartner.com
 GEHC,GE HealthCare,Health Care,Health Care Technology,"Chicago, Illinois",1/4/2023,1994,gehealthcare.com
-GEN,Gen Digital,Information Technology,Application Software,"Tempe, Arizona",3/25/2003,1982,zoominfo.com
+GEN,Gen Digital,Information Technology,Application Software,"Tempe, Arizona",3/25/2003,1982,gendigital.com
 GNRC,Generac,Industrials,Electrical Components & Equipment,"Waukesha, Wisconsin",3/22/2021,1959,generac.com
 GD,General Dynamics,Industrials,Aerospace & Defense,"Falls Church, Virginia",3/4/1957,1899,gd.com
 GE,General Electric,Industrials,Industrial Conglomerates,"Boston, Massachusetts",3/4/1957,1892,ge.com
-GIS,General Mills,Consumer Staples,Packaged Foods & Meats,"Golden Valley, Minnesota",3/4/1957,1856,zoominfo.com
+GIS,General Mills,Consumer Staples,Packaged Foods & Meats,"Golden Valley, Minnesota",3/4/1957,1856,generalmills.com
 GM,General Motors,Consumer Discretionary,Automobile Manufacturers,"Detroit, Michigan",6/6/2013,1908,gm.com
 GPC,Genuine Parts Company,Consumer Discretionary,Specialty Stores,"Atlanta, Georgia",12/31/1973,1925,genpt.com
 GILD,Gilead Sciences,Health Care,Biotechnology,"Foster City, California",7/1/2004,1987,gilead.com
@@ -226,18 +226,18 @@ GL,Globe Life,Financials,Life & Health Insurance,"McKinney, Texas",4/30/1989,190
 GPN,Global Payments,Information Technology,Data Processing & Outsourced Services,"Atlanta, Georgia",4/25/2016,2000,globalpayments.com
 GS,Goldman Sachs,Financials,Investment Banking & Brokerage,"New York City, New York",7/22/2002,1869,goldmansachs.com
 HAL,Halliburton,Energy,Oil & Gas Equipment & Services,"Houston, Texas",3/4/1957,1919,halliburton.com
-HIG,Hartford (The),Financials,Property & Casualty Insurance,"Hartford, Connecticut",3/4/1957,1810,townofhartfordwi.gov
+HIG,Hartford (The),Financials,Property & Casualty Insurance,"Hartford, Connecticut",3/4/1957,1810,thehartford.com
 HAS,Hasbro,Consumer Discretionary,Leisure Products,"Pawtucket, Rhode Island",9/30/1984,1923,hasbro.com
 HCA,HCA Healthcare,Health Care,Health Care Facilities,"Nashville, Tennessee",1/27/2015,1968,hcahealthcare.com
 PEAK,Healthpeak,Real Estate,Health Care REITs,"Long Beach, California",3/31/2008,1985,healthpeak.com
-HSIC,Henry Schein,Health Care,Health Care Distributors,"Melville, New York",3/17/2015,1932,findbusinessaddress.com
+HSIC,Henry Schein,Health Care,Health Care Distributors,"Melville, New York",3/17/2015,1932,henryschein.com
 HSY,Hershey's,Consumer Staples,Packaged Foods & Meats,"Hershey, Pennsylvania",3/4/1957,1894,thehersheycompany.com
 HES,Hess Corporation,Energy,Integrated Oil & Gas,"New York City, New York",5/31/1984,1919,hess.com
 HPE,Hewlett Packard Enterprise,Information Technology,"Technology Hardware, Storage & Peripherals","Houston, Texas",11/2/2015,2015,hewlett.org
 HLT,Hilton Worldwide,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Tysons Corner, Virginia",6/19/2017,1919,hilton.com
 HOLX,Hologic,Health Care,Health Care Equipment,"Marlborough, Massachusetts",3/30/2016,1985,hologic.com
-HD,Home Depot (The),Consumer Discretionary,Home Improvement Retail,"Atlanta, Georgia",3/31/1988,1978,zillow.com
-HON,Honeywell,Industrials,Industrial Conglomerates,"Charlotte, North Carolina",3/4/1957,1906,onrion.com
+HD,Home Depot (The),Consumer Discretionary,Home Improvement Retail,"Atlanta, Georgia",3/31/1988,1978,corporate.homedepot.com/page/about-us
+HON,Honeywell,Industrials,Industrial Conglomerates,"Charlotte, North Carolina",3/4/1957,1906,honeywell.com
 HRL,Hormel Foods,Consumer Staples,Packaged Foods & Meats,"Austin, Minnesota",3/4/2009,1891,hormelfoods.com
 HST,Host Hotels & Resorts,Real Estate,Hotel & Resort REITs,"Bethesda, Maryland",3/20/2007,1993,hosthotels.com
 HWM,Howmet Aerospace,Industrials,Aerospace & Defense,"Pittsburgh, Pennsylvania",3/4/1957,2016,howmet.com
